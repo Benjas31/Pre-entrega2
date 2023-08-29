@@ -1,0 +1,9 @@
+setup.py
+paquete/ArmaTuLogin+Tolosa.py
+paquete/__init__.py
+paquete/basedatos.py
+paquete/cliente.py
+paquete.egg-info/PKG-INFO
+paquete.egg-info/SOURCES.txt
+paquete.egg-info/dependency_links.txt
+paquete.egg-info/top_level.txt
